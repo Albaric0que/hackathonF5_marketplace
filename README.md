@@ -3,32 +3,32 @@
 
 ![1e2645b96bc33f257d77cea4d99a6d2d](https://user-images.githubusercontent.com/114645883/221011831-0dff3969-b7db-4d7b-af22-2ec5194f05ed.png)
 
-<p> Estáis en frente del proyecto final de la Hackathon 2023, Estamos muy contentos de llegar hasta este punto de desarollo formativo gracias a nuestros respectivos guías. Lo sabemos, tenemos la capacidad de poder afrontar este pequeño, pero intenso reto: comunicación constante con nuestro equipo, la organización de tareas usando srum agile, fortalecer nuestras nociones para refactorizar y documentar herramientas nuevas. Un reto académico que agradecemos a nuestro sponsor CaixaBank. Nuestro equipo de desarrollo está formado por nuestra Product Owner Ainhoa, Scrum Judit y, aunque en realidad todos ejercemos de desarrolladores, nuestros developers Georgette, Carlos, Ana, Bryan, Caren y Natalia. Nuestro objetivo es crear un nuevo producto según los requerimientos de nuestro cliente. <p>
+<p> You are in front of the Hackathon 2023 final project. We are very happy to reach this point of training development thanks to our respective guides. We know, we have the ability to face this small but intense challenge: constant communication with our team, organizing tasks using agile scrum, strengthening our knowledge to refactor and document new tools. We thank our sponsor, CaixaBank, for this academic challenge. Our development team is made up of our Product Owner Ainhoa, Scrum Judit and, although in fact we all act as developers, our developers Georgette, Carlos, Ana, Bryan, Caren, Natalia and Alba. Our goal is to create a new product according to our client's requirements. <p>
   
-<h2>1. Requerimientos base del cliente para MVP:</h2>
+<h2>1. MVP client's requirements:</h2>
 <ul>
- <li> Crear un Marketplace </li>
-<li> Crear Anuncios y publicarlos.</li>
-<li> Usuario como visitante</li>
-<li> Cliente que paga por anunciarse</li>
-<li> Contacto entre usuario y cliente </li>
+ <li> To create a marketplace </li>
+<li> To create adds and publish them.</li>
+<li> User as visitor</li>
+<li> Clients must pay for advertising their services</li>
+<li> Contact client-user </li>
 </ul>
 
-Nosotras ofrecemos como proyecto escalable:
-1. Un marketplace en el que el objetivo será crear una comunidad de desarrolladores que quieran emprender una startup y necesiten colaboradores.
-2. La temática de los proyectos startup serán exclusivos de temáticas especificas que creemos que podrían mejorar nuestro futuro. La ansiedad climática, el fantasma del nazismo, el clasicismo y el machismo y la gran mentira de un crecimiento económico sin límite nos está llevando a una desazón profunda, y creemos que mediante vías tecnológicas podemos ayudar a que nuestro entorno deje de ser un poco menos hostil.
-3. En esta plataforma está enfocada a perfiles tecnológicos o de desarrollo junior que quieran aportar algo valioso juntándose en esta comunidad "startupera". Podrá acceder al perfil de compañeras, ver sus inquietudes y habilidades en el sector TIC y, si queréis desarrollar una temática en común, dale a los favoritos, ¡Es un match!, a partir de aquí ya deberán ponerse en contacto.
+We offer as a scalable projec:
+1.A marketplace in which the objective will be to create a community of developers who want to start a startup and need collaborators.
+2. The theme of the startup projects will be exclusive to specific themes that we believe could improve our future. Climate anxiety, the ghost of Nazism, classism and sexism and the big lie of unlimited economic growth are leading us to deep unease, and we believe that through technological means we can help our environment a little to stop being hostile.
+3. This platform is focused on junior technological or development profiles who want to contribute something valuable by joining together in this startup community. You will be able to access the profile of colleagues, see their concerns and skills in the IT area and, if you want to develop a common theme, click on your favorites. If there is a match they can then get in touch.
 
 ![73322dd86f7b8e28e2b70142a3c954e9](https://user-images.githubusercontent.com/114645883/221011982-27967cc4-1387-4987-aad3-806f5d47c519.png)
 
 <h2>2. User stories:</h2>
 <ul>
-<li>Yo como user quiero acceder a todas las vistas para poder enterarme de todo el contenido de la plataforma. </li>
-<li>Yo como user quiero un diseño intuitivo y simple para poder enrutarme entre las diferentes pantallas.</li>
-<li>Yo como user quiero acceder a la informacion de los anunciantes para revisar si hay algun proyecto que me gusta.</li>
-<li>Yo como user quiero una lista de mis favoritos para poder ponerme en contacto si finalmente quiero participar en uno de ellos.</li>
-<li>Yo como user quiero acceder a los puestos de los enunciantes para participar en la busqueda de proyectos comunes.</li>
-<li>Yo como user quiero poder ser identificado igualmente como usuario-cliente para beneficiarme de la horizontalidad de la app y buscar compañeros.</li>
+<li>As an user, I want to access all the views to be able to find out about all the content on the platform. </li>
+<li>As an user, I want an intuitive and simple design to move between the different screens.</li>
+<li>As an user, I want to access advertiser information to check if there is a project that I like.</li>
+<li>As an user, I want a favorites list so I can get in touch with them if I finally want to participate in a project.</li>
+<li>As an user, I want to access the posts of the announcers.</li>
+<li>As a user, I want to be able to be identified equally as a user-client to benefit from the horizontality of the app and search for colleagues.</li>
 </ul>
 
 
@@ -137,8 +137,5 @@ To run the vendor tests, execute the following command:
 <li>Mob programming.</li>
 <li>Pair programming.</li>
 <li>Agile with SCRUM</li>
-<<<<<<< HEAD
 <li>TDD</li> 
-=======
-<li>TDD</li> 
->>>>>>> b7874406f6cc0a78376b0d5b8e37ffc320d04496
+</ul>
