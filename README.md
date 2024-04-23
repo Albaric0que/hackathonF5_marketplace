@@ -1,5 +1,5 @@
 # hackathlonF5_marketplace
-<h1>startUpComunity</h1>
+<h1>startUpCommunity</h1>
 
 ![1e2645b96bc33f257d77cea4d99a6d2d](https://user-images.githubusercontent.com/114645883/221011831-0dff3969-b7db-4d7b-af22-2ec5194f05ed.png)
 
